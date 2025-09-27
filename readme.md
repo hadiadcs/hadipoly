@@ -16,8 +16,8 @@ The game combines **strategy, luck, and financial management** into a fun and in
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (Bootstrap for styling)  
-- **Backend (if applicable):** Python / Node.js  
-- **Database:** SQLite / MongoDB  
+- **Backend (if applicable):** Node.js  
+- **Database:** MySQL / MongoDB  
 
 ---
 
